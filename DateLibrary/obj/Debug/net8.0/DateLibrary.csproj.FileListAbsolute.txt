@@ -1,0 +1,14 @@
+/Users/saaashaqwz/RiderProjects/DateLibrary/DateLibrary/bin/Debug/net8.0/DateLibrary
+/Users/saaashaqwz/RiderProjects/DateLibrary/DateLibrary/bin/Debug/net8.0/DateLibrary.deps.json
+/Users/saaashaqwz/RiderProjects/DateLibrary/DateLibrary/bin/Debug/net8.0/DateLibrary.runtimeconfig.json
+/Users/saaashaqwz/RiderProjects/DateLibrary/DateLibrary/bin/Debug/net8.0/DateLibrary.dll
+/Users/saaashaqwz/RiderProjects/DateLibrary/DateLibrary/bin/Debug/net8.0/DateLibrary.pdb
+/Users/saaashaqwz/RiderProjects/DateLibrary/DateLibrary/obj/Debug/net8.0/DateLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saaashaqwz/RiderProjects/DateLibrary/DateLibrary/obj/Debug/net8.0/DateLibrary.AssemblyInfoInputs.cache
+/Users/saaashaqwz/RiderProjects/DateLibrary/DateLibrary/obj/Debug/net8.0/DateLibrary.AssemblyInfo.cs
+/Users/saaashaqwz/RiderProjects/DateLibrary/DateLibrary/obj/Debug/net8.0/DateLibrary.csproj.CoreCompileInputs.cache
+/Users/saaashaqwz/RiderProjects/DateLibrary/DateLibrary/obj/Debug/net8.0/DateLibrary.dll
+/Users/saaashaqwz/RiderProjects/DateLibrary/DateLibrary/obj/Debug/net8.0/refint/DateLibrary.dll
+/Users/saaashaqwz/RiderProjects/DateLibrary/DateLibrary/obj/Debug/net8.0/DateLibrary.pdb
+/Users/saaashaqwz/RiderProjects/DateLibrary/DateLibrary/obj/Debug/net8.0/DateLibrary.genruntimeconfig.cache
+/Users/saaashaqwz/RiderProjects/DateLibrary/DateLibrary/obj/Debug/net8.0/ref/DateLibrary.dll
